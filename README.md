@@ -9,3 +9,5 @@ I need to learn github
 https://github.com/Shockersify/WebPage Seems to be this shits framework so suck his dick or something. It's similar but everything is reworked.
 
 **[Live Demo](http://truttix.github.io/AhriStartpage/)**
+
+Originally inspired by League of Legends video game
